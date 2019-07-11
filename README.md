@@ -1,7 +1,7 @@
-# pixijs-starter
+# pixi-starter
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
-[![dependencies](https://david-dm.org/florisdh/pixijs-starter.svg)](https://david-dm.org/florisdh/pixijs-starter)
+[![dependencies](https://david-dm.org/florisdh/pixi-starter.svg)](https://david-dm.org/florisdh/pixi-starter)
 
 A fast and up to date **Pixi.js starter project** using webpack to give your project a headstart.
 
@@ -24,7 +24,7 @@ A fast and up to date **Pixi.js starter project** using webpack to give your pro
 ### Setup
 Clone the starter and install required dependencies. (you've probably done this before)
 ```
-git clone https://github.com/florisdh/pixijs-starter AWESOME-PROJECT
+git clone https://github.com/florisdh/pixi-starter AWESOME-PROJECT
 cd AWESOME-PROJECT
 npm i
 ```
