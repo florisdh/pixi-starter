@@ -15,8 +15,8 @@ A fast and up to date **Pixi.js starter project** using webpack to give your pro
 
 ## Under the hood
 - Pixi.js v5
-- Webpack v4.2
-- Typescript v3.3
+- Webpack v4.39
+- Typescript v3.6
 - Handlebars v4.1
 
 ## Usage

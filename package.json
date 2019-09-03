@@ -14,16 +14,16 @@
   },
   "devDependencies": {
     "clean-webpack-plugin": "^2.0.0",
-    "copy-webpack-plugin": "^5.0.0",
-    "fork-ts-checker-webpack-plugin": "^1.0.0",
+    "copy-webpack-plugin": "^5.0.4",
+    "fork-ts-checker-webpack-plugin": "^1.5.0",
     "handlebars": "^4.1.0",
     "handlebars-loader": "^1.7.1",
     "html-webpack-plugin": "^3.2.0",
     "ts-loader": "^5.3.3",
-    "typescript": "^3.3.3333",
-    "webpack": "^4.29.6",
-    "webpack-cli": "^3.2.3",
-    "webpack-dev-server": "^3.2.1",
-    "webpack-merge": "^4.2.1"
+    "typescript": "^3.6.2",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7",
+    "webpack-dev-server": "^3.8.0",
+    "webpack-merge": "^4.2.2"
   }
 }
